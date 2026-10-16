@@ -1,5 +1,7 @@
 # NullCase
 
+Project website: [NullCase](https://gr1gorii.github.io/NullCase/)
+
 ## Project code license
 
 Copyright (c) 2026 Gr1gorii.
